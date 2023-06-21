@@ -1,0 +1,6 @@
+Student 1
+Name: Krishna	Registartion Number: 12219635	Marks: 99.000000
+Student 2
+Name: Shivani	Registartion Number: 12219767	Marks: 99.000000
+Student 3
+Name: Abhinav	Registartion Number: 12222586	Marks: 99.000000
